@@ -1,0 +1,15 @@
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\bin\Debug\TaskCrudWPF.exe.config
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\bin\Debug\TaskCrudWPF.exe
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\bin\Debug\TaskCrudWPF.pdb
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\TaskCrudWPF.csproj.AssemblyReference.cache
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\App.g.cs
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\TaskCrudWPF_MarkupCompile.cache
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\TaskCrudWPF_MarkupCompile.lref
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\MainWindow.baml
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\TaskCrudWPF.g.resources
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\TaskCrudWPF.Properties.Resources.resources
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\TaskCrudWPF.csproj.GenerateResource.cache
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\TaskCrudWPF.csproj.CoreCompileInputs.cache
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\TaskCrudWPF.exe
+C:\Users\Francis Alcantara\OneDrive\Escritorio\TaskCrudWPF\TaskCrudWPF\obj\Debug\TaskCrudWPF.pdb
